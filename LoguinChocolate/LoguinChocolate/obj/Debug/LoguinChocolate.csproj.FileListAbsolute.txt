@@ -1,0 +1,213 @@
+c:\users\guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+c:\users\guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+c:\users\guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+c:\users\guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+c:\users\guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+c:\users\guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+c:\users\guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+c:\users\guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+c:\users\guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\relatorio_produtos.relatorio_produto.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+C:\Users\albano.dmonteiro\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+T:\Cursos Tecnicos\3200022522-tecnico_info_t75\zz\AQUI OTARIIO\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+G:\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+G:\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+G:\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+G:\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+C:\Users\Guilherme\documents\visual studio 2012\Projects\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+C:\Users\guilherme.bfogo\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+C:\Users\vinicius.smsilva1\Desktop\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+C:\Users\guilherme.bfogo\Desktop\duplicado\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+C:\Users\guilherme.bfogo\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+C:\Users\guilherme.bfogo\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+C:\Users\albano.dmonteiro\Desktop\duplicado\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+C:\Users\Guilherme\Desktop\duplicado\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+G:\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+C:\Users\guilherme.bfogo\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe.config
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.exe
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.pdb
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.exe
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\bin\Debug\LoguinChocolate.pdb
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Cliente.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_fornecedores.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Funcionarios.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Produtos.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_promocao.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.cad_Usuarios.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Loguin.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.menu.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_compra.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_produtos.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.relatorio_vendas.resources
+C:\Users\Guilherme\Desktop\duplicado LOGUIN CHOCOLATE OFFICIAL\LoguinChocolate\LoguinChocolate\obj\Debug\LoguinChocolate.csproj.GenerateResource.Cache
